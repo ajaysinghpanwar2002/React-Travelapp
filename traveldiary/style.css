@@ -1,0 +1,139 @@
+.Navbar-bg{
+    position: absolute;
+width: 550px;
+height: 55px;
+left: 0px;
+top: 0px;
+
+background: #F55A5A;
+}
+
+.navimg{
+    /* display: flex; */
+    position: absolute;
+width: 29px;
+height: 29px;
+left: 190px;
+/* top: calc(50% - 24px/2 - 324px); */
+
+}
+.navtitle{
+position: absolute;
+width: 109px;
+height: 16px;
+left: 230px;
+top: 0px;
+
+/* font-family: 'Inter'; */
+font-style: normal;
+font-weight: 500;
+font-size: 14.4608px;
+line-height: 18px;
+letter-spacing: -0.075em;
+
+color: #FFFFFF;
+}
+
+.image1{
+position: absolute;
+width: 125px;
+height: 168px;
+left: 40px;
+top: 100px;
+
+background: url(.png);
+border-radius: 5px;    
+}
+.image2{
+    position: absolute;
+width:15px;
+height: 10px;
+left: 180px;
+top: 130px;
+}
+.country{
+position: absolute;
+width: 40px;
+height: 10px;
+left: 199px;
+top: 119px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 12px;
+letter-spacing: 0.17em;
+
+color: #2B283A;
+}
+
+.gmaps{
+position: absolute;
+width: 106px;
+height: 13px;
+left: 240px;
+top: 130px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+/* line-height: 12px; */
+/* identical to box height */
+
+/* text-decoration-line: underline; */
+
+color: #918E9B;
+
+    
+}
+.place{
+    position: absolute;
+width: 326px;
+height: 40px;
+left: 184px;
+top: 136px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+
+color: #2B283A;
+}
+.date{
+    position: absolute;
+width: 319px;
+height: 11px;
+left: 184px;
+top: 183px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 10.24px;
+line-height: 12px;
+
+color: #2B283A;
+
+}
+
+.desc{
+    position: absolute;
+width: 326px;
+height: 45px;
+left: 184px;
+top: 203px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10.24px;
+line-height: 150%;
+/* or 15px */
+
+
+color: #2B283A;
+}
